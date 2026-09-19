@@ -130,22 +130,26 @@
 <table>
   <tr>
     <td>
-      <img width="400" alt="J-mp3 3D Front" src="https://github.com/user-attachments/assets/c255b1d1-a01b-46f7-a71f-36368470523b" />
+      <img width="400" height="400" alt="J-mp3 PCB Top" src="https://github.com/user-attachments/assets/c255b1d1-a01b-46f7-a71f-36368470523b" />
     </td>
     <td>
-      <img width="400" alt="J-mp3 3D Back" src="https://github.com/user-attachments/assets/2141cb95-9680-4c3a-9d35-e3b9ce12d729" />
+      <img width="400" height="400" alt="J-mp3 PCB Bottom" src="https://github.com/user-attachments/assets/2141cb95-9680-4c3a-9d35-e3b9ce12d729" />
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" height="400" alt="J-mp3 Enclosure Top" src="https://github.com/user-attachments/assets/98f374b8-415b-4eb8-9580-ea03950c9d8b" />
     </td>
-      <img width="618" height="696" alt="image" src="https://github.com/user-attachments/assets/98f374b8-415b-4eb8-9580-ea03950c9d8b" />
+    <td>
+      <img width="400" height="400" alt="J-mp3 Enclosure Bottom" src="https://github.com/user-attachments/assets/514f4c93-9e48-4978-9cfe-0d37e0450759" />
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" height="400" alt="J-mp3 Enclosure Side 1" src="https://github.com/user-attachments/assets/bce0b7c0-81c8-4edd-992f-1ce2265f9c64" />
     </td>
-      <img width="688" height="727" alt="image" src="https://github.com/user-attachments/assets/514f4c93-9e48-4978-9cfe-0d37e0450759" />
-    </td>
-    </td>
-      <img width="632" height="380" alt="image" src="https://github.com/user-attachments/assets/bce0b7c0-81c8-4edd-992f-1ce2265f9c64" />
-    </td>
-    </td>
-      <img width="508" height="631" alt="image" src="https://github.com/user-attachments/assets/fb89ec76-a619-4957-8654-8dfe8688cfd6" />
+    <td>
+      <img width="400" height="400" alt="J-mp3 Enclosure Side 2" src="https://github.com/user-attachments/assets/fb89ec76-a619-4957-8654-8dfe8688cfd6" />
     </td>
   </tr>
 </table>
