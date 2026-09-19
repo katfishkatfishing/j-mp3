@@ -11,11 +11,12 @@
     />
   </a>
 </p>
-      <p>Journey of making my own portable music player</p>
+      <p>Making my own portable music player!</p>
       <p>I recently got interested in making my own electronics, and one day, I saw the Teenage Engineering TP7 field recorder. I loved the design it had, and wanted one. But I checked the price and it was wayy too expensive, so I decided to make my own, just only with the audio playing part and without the cool fancy stuff. I'm very new to this, so I couldn't replicate it very well, pls don't be too harsh on my work lol, but please feel free to give me any advice.</p>
       <p>A portable music player inspired by classic iPods, and trying to match the design style of Teenage Engineering, playing audio directly from an inserted microSD card with support for both high-fidelity analog 3.5mm output and Bluetooth audio streaming.</p>
       <p> ⚡Powered by the <strong>ESP32-S31</strong> and PCM5102A Audio DAC</p>
       <p>More projects and revisions coming soon🙏!</p>
+      <p>Note: I know the rotary encoder knob is off and too long, but I temporarily have no solutions for that. 💔</p>
 
 ## Capabilities
 ### Microcontroller & Audio
