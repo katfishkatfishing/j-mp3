@@ -51,7 +51,7 @@
 ## BOM
 
 | Item | Parts | Qty. | Price per lot (USD) | Source |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | Audio jack female | PJ-320B | 1 | 3.27 | https://www.aliexpress.com/item/1005010463642476.html?spm=a2g0o.productlist.main.1.60817974ZmbdiL&algo_pvid=3c162c60-ca97-44d8-a4ea-9733957078ac&pdp_ext_f=%7B%22order%22%3A%22106%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010463642476%7C_p_origin_prod%3A |
 | Dual N-channel MOSFET | FS8205A | 1 | 1.59 | https://www.aliexpress.com/item/1005006375737459.html?spm=a2g0o.productlist.main.1.a0b04c51uTVtAf&algo_pvid=7da07ac5-ba7f-498b-ae78-000138901bd1&pdp_ext_f=%7B%22order%22%3A%22244%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006375737459%7C_p_origin_prod%3A |
 | Ideal Diode Controller | TPS2121RUXR | 1 | 2.09 | https://www.aliexpress.com/item/1005010183114644.html?spm=a2g0o.productlist.main.1.3b79VBZzVBZzNw&algo_pvid=9486a3c5-64df-4774-9556-4dae7f705c93&pdp_ext_f=%7B%22order%22%3A%2224%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010183114644%7C_p_origin_prod%3A |
